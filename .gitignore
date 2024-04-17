@@ -1,0 +1,8 @@
+*
+!inet*/
+!local*/
+!.gitignore
+!*.c
+!Makefile*
+!README*
+.vscode/
